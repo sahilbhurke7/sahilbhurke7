@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/originals/21/39/8f/21398f7323df02b64fae25c704ccc32f.gif" alt="Coding" class="center">
 <h1 align="center">Hey wassup 👋, I'm Sahil Sujay Bhurke</h1>
 <h3 align="center">A professional Linux ,cloud and devops engineer who is now exploring full stack too.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
