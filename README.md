@@ -1,6 +1,6 @@
 <h1 align="center">Hey wassup 👋, I'm Sahil Sujay Bhurke</h1>
 <h3 align="center">A professional Linux ,cloud and devops engineer who is now exploring full stack too.</h3>
-<img align="rigt" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilbhurke7&label=Profile%20views&color=0e75b6&style=flat" alt="sahilbhurke7" /> </p>
 
